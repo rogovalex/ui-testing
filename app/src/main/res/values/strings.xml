@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">UITesting</string>
+    <string name="password_check">Сложность пароля</string>
+</resources>
